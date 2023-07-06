@@ -23,7 +23,7 @@
 #define EFM8BB1_SUPPORT_WS_1200_PROTOCOL		0		// Alecto WS-1200 Series Wireless Weather Station
 #define EFM8BB1_SUPPORT_ALDI_4x_PROTOCOL		1		// ALDI Remote controlled wall sockets, 4x
 #define EFM8BB1_SUPPORT_SP45_PROTOCOL			1		// Meteo SPxx -  Weather station (PHU Metrex)
-#define EFM8BB1_SUPPORT_DC90_PROTOCOL			1		// Dooya DC90 remote
+#define EFM8BB1_SUPPORT_DC90_PROTOCOL			0		// Dooya DC90 remote
 #define EFM8BB1_SUPPORT_DG_HOSA_PROTOCOL		1		// Digoo DG-HOSA Smart 433MHz Wireless Household Carbon Monoxide Sensor
 #define EFM8BB1_SUPPORT_HT12a_PROTOCOL			0		// HT12A/HT12E chips - Generic Doorbell
 #define EFM8BB1_SUPPORT_HT12_Atag_PROTOCOL		0		// HT12A/HT12E chips - Atag Extractor - Plus/Minus/Lights/Timer
@@ -35,3 +35,5 @@
 #define EFM8BB1_SUPPORT_BY302_PROTOCOL			1		// Byron BY302 Doorbell, Issue #102
 #define EFM8BB1_SUPPORT_DT_5514_PROTOCOL		1		// 5514 SILENT Dual Tech, Issue #104
 #define EFM8BB1_SUPPORT_H13726_PROTOCOL			1		// Auriol H13726 Weather Station, Issue #106
+#define EFM8BB1_SUPPORT_AC11401B_PROTOCOL       1       //
+#define EFM8BB1_SUPPORT_DOOYACURT_PROTOCOL      1
